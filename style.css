@@ -1,0 +1,10 @@
+h1{
+    width: 20%;
+    background-color: rgb(123, 23, 23);
+    color: white;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+body{
+    background-color: black;
+}
