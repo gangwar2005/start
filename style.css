@@ -9,9 +9,10 @@ html,body{
 
 body{
     background-color: antiquewhite;
+    display: flex; 
+}
+main{
     display: flex;
-    
-    
 }
 div{
     width: 100%;
