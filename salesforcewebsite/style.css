@@ -26,7 +26,6 @@ html,body{
     z-index: 10;
     /* justify-content: space-between; */
 }
-
 #logo{
     height: 60%;
     margin: 10px;
@@ -90,10 +89,13 @@ html,body{
     display: flex;
     justify-content: center;
 }
-
 #strip u{
     margin-left: 20px;
+    color: white;
     font-weight: lighter;
+}
+#strip u:hover{
+    color: rgb(4, 4, 182);
 }
 #content{
     height: 76%;
@@ -111,6 +113,15 @@ html,body{
     width: 47%;
     height: 90%;
 }
+.imgg{
+    position: absolute;
+}
+#img1 img{
+   border-bottom-left-radius: 100%;
+   height: 420px;
+   width: 800px;
+}
+//video
 #heading{
     background-color: white;
     height: 16%;
