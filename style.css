@@ -12,7 +12,7 @@ body{
     display: flex; 
 }
 main{
-    display: flex;
+    /* display: flex; */
 }
 div{
     width: 100%;
