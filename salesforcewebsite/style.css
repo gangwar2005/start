@@ -121,7 +121,18 @@ html,body{
    height: 420px;
    width: 800px;
 }
-//video
+.video-wrapper{
+    margin-left: 40px;
+    margin-top: 100px;
+}
+.video-wrapper video{
+    width: 450px;
+    height: 20px;
+    height: auto;
+    z-index: 2; 
+    position: relative;
+    border-radius: 20px;
+}
 #heading{
     background-color: white;
     height: 16%;
